@@ -1,1 +1,1 @@
-# tokenAuth
+# token-auth
